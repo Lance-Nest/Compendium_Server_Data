@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "minecraft:obsidian",
+      "required": false
+    },
+    "minecraft:obsidian"
+  ]
+}

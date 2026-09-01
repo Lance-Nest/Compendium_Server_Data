@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "minecraft:mangrove_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:mangrove_styled_planks_item",
+      "required": false
+    }
+  ]
+}

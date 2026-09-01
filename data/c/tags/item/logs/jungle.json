@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:jungle_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "required": false
+    },
+    {
+      "id": "compendium:jungle_small_logs_item",
+      "required": false
+    }
+  ]
+}

@@ -81,6 +81,14 @@
       "required": false
     },
     {
+      "id": "minecraft:copper_block",
+      "required": false
+    },
+    {
+      "id": "compendium:copper_styled_metal",
+      "required": false
+    },
+    {
       "id": "silentgear:crimson_iron_block",
       "required": false
     },
@@ -137,11 +145,27 @@
       "required": false
     },
     {
+      "id": "minecraft:gold_block",
+      "required": false
+    },
+    {
+      "id": "compendium:gold_styled_metal",
+      "required": false
+    },
+    {
       "id": "cataclysm:ignitium_block",
       "required": false
     },
     {
       "id": "compendium:ignitium_styled_metal",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_block",
+      "required": false
+    },
+    {
+      "id": "compendium:iron_styled_metal",
       "required": false
     },
     {
@@ -158,6 +182,14 @@
     },
     {
       "id": "compendium:moonsilver_styled_metal",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_block",
+      "required": false
+    },
+    {
+      "id": "compendium:netherite_styled_metal",
       "required": false
     },
     {
@@ -221,11 +253,43 @@
       "required": false
     },
     {
+      "id": "compendium:amethyst_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:crying_obsidian_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:dark_prismarine_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:diamond_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:emerald_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:ender_pearl_styled_gem",
+      "required": false
+    },
+    {
       "id": "compendium:garnet_styled_gem",
       "required": false
     },
     {
+      "id": "compendium:lapis_styled_gem",
+      "required": false
+    },
+    {
       "id": "compendium:moonstone_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:obsidian_styled_gem",
       "required": false
     },
     {
@@ -234,6 +298,14 @@
     },
     {
       "id": "compendium:peridot_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:prismarine_styled_gem",
+      "required": false
+    },
+    {
+      "id": "compendium:quartz_styled_gem",
       "required": false
     },
     {
