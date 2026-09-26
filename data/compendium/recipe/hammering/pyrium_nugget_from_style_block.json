@@ -6,7 +6,7 @@
   "loot": "compendium:hammering/pyrium_nugget_from_style_block",
   "ouput": {
     "count": 2,
-    "id": "compendium:pyrium_nugget_item"
+    "id": "hazennstuff:pyrium_nugget"
   },
   "tools": [
     {

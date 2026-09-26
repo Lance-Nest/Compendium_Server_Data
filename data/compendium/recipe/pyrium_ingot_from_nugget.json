@@ -3,11 +3,35 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "irons_spellbooks:pyrium_ingot"
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
+    },
+    {
+      "item": "compendium:pyrium_nugget_item"
     }
   ],
   "result": {
-    "count": 9,
-    "id": "compendium:pyrium_nugget_item"
+    "count": 1,
+    "id": "irons_spellbooks:pyrium_ingot"
   }
 }

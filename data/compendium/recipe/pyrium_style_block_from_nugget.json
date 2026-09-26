@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "p": {
-      "item": "compendium:pyrium_nugget_item"
+      "item": "hazennstuff:pyrium_nugget"
     }
   },
   "pattern": [
